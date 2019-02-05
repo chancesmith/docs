@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 For an overview of how things work in `React` please refer to the [React docs](https://reactjs.org/docs/hello-world.html)
 
-## [💻 Source code](https://github.com/GraphCMS/graphcms-examples/tree/master/react-apollo-blog)
+## [💻 Source code](https://github.com/GraphCMS/graphcms-examples/tree/master/current/react-apollo-blog)
 
 ## How to start
 ```
